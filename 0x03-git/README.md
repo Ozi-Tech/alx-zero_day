@@ -1,0 +1,1 @@
+This directory contains thesolutions to the 0x03-git ALX project.
